@@ -12,7 +12,7 @@
 6.	The steps are repeated till ‘$’ is reached.
 7.	To reach a variable, enter the variable to be searched and the symbol table has been checked for the corresponding variable, the variable along with its address is displayed as a result.
 8.	Stop the program. 
-# PROGRAM
+# PROGRAM :
 ``` C program
 #include <stdio.h>
 #include <ctype.h>
@@ -76,9 +76,9 @@ int main() {
 	return 0;
 }
 ```
-# OUTPUT
+# OUTPUT :
 <img width="677" height="399" alt="Screenshot 2025-09-15 105406" src="https://github.com/user-attachments/assets/8235a48c-28f9-4b39-bd88-69cd775fa907" />
 <img width="680" height="430" alt="image" src="https://github.com/user-attachments/assets/9d3b344c-fdba-4183-937a-c17dddd4a698" />
 
-# RESULT
+# RESULT :
 ### The program to implement a symbol table is executed and the output is verified.
